@@ -1,5 +1,4 @@
 # Classroom-Demonstrations
-Classroom demonstration and experiment guides, 3D design files, and other information
 
 Design files are free to use so long as proper attribution is provided. The University of Colorado Denver,
 its employees, and associates disclaim all warranties and have no liability in the use of these designs.
